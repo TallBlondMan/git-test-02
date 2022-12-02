@@ -6,3 +6,4 @@ Time to learn the difference between init and init --bare
 
 So there will be another line after this pushed with -u
 
+So this is a line after -u
