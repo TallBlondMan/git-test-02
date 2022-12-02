@@ -1,8 +1,8 @@
-print("Witaj swiecie okrutny")
+print("Hello oh World")
 x = 1 + 1
 
-print("Dodalem dla Ciebie po cichu 2 liczby", x)
-y = input("Daj mnie jeszcze jedna liczbe, dodam ja do poprzedniej :)")
-z = x + y
-print("Dziena wariacie!")
+print("I added some numbers for you here, have a look ", x)
+y = input("Now give me another number, I'ma gonna add it to the one above")
+z = x + y 
+print("Nice, Thanks")
 
